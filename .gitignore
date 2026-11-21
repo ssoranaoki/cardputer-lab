@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+__pycache__/
+logs/
+platformio-device-monitor-*.log
+
+# SKK 辞書（GPL v2 以降）。tools/make_skkdict.py が取ってきて作る。リポジトリには入れない
+third_party/skk/SKK-JISYO.M
+src/edit1/skkdict.h
